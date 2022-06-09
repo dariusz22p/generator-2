@@ -1,5 +1,3 @@
-# covid-19-certificate-generator
-
 ## Introduction
 Simple script permettant de générer une attestation de sortie en utilisant [le site du gouvernement](https://media.interieur.gouv.fr/deplacement-covid-19/). 
 
@@ -8,12 +6,6 @@ Simple script permettant de générer une attestation de sortie en utilisant [le
     - Pas testé sous Python 2
 - Selenium
 - Un driver Chrome - https://sites.google.com/a/chromium.org/chromedriver/downloads
-
-## Installation
-Cloner le répertoire
-```
-git clone https://github.com/Henkan/covid-19-certificate-generator.git
-```
 
 Installer Selenium
 ```
